@@ -1,4 +1,4 @@
-# deep-learning-exemplified
+# machine-learning-exemplified
 
 Provides tutorial-like examples for prototyping deep learning models using various approaches.
 

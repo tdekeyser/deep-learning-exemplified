@@ -8,8 +8,8 @@ from matplotlib.offsetbox import OffsetImage, AnnotationBbox
 from sklearn.decomposition import PCA
 from sklearn.manifold import TSNE
 
-from cegeka.stanfordcars import StanfordCars
-from cegeka.utils.plot import show_image
+from stanfordcars import StanfordCars
+
 
 WIDTH = 100
 HEIGHT = 100

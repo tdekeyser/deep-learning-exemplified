@@ -1,4 +1,4 @@
-# machine-learning-exemplified
+# some-ml
 
 Provides tutorial-like examples for prototyping machine learning models using various approaches.
 
